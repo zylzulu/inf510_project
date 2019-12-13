@@ -1,0 +1,16 @@
+name: zhang_yilin
+dependencies:
+  - python=3.6 
+  - numpy
+  - matplotlib
+  - requests
+  - BeautifulSoup
+  - pandas
+  - pip:
+    - json
+    - urllib
+    - parse
+    - socket
+    - pycountry
+    - argparse
+    - plotly
