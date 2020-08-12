@@ -1,2 +1,2 @@
-# inf510_project
-Final project of INF510
+# DSCI510 project
+Final project of DSCI510
